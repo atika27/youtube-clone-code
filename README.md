@@ -1,2 +1,2 @@
-# youtube-clone-code![Screenshot (77)](https://github.com/atika27/youtube-clone-code/assets/124301699/6ecd70a6-6c5a-48cf-9878-f885cca94cee)
-![Screenshot (78)](https://github.com/atika27/youtube-clone-code/assets/124301699/bc16b1b6-b403-4654-bcb9-8730153407c3)
+![Screenshot (77)](https://github.com/atika27/youtube-clone-code/assets/124301699/608ecacf-825a-4c2c-a365-4aad81a7fe22)
+![Screenshot (78)](https://github.com/atika27/youtube-clone-code/assets/124301699/f0282cc6-f9fd-4834-b404-b526a7a520dd)
